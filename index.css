@@ -10,6 +10,9 @@
 .ndienye{
   color: white
 }
-.nav-section{
-  
+.nav-section nav a{
+ color: white;
+ position: relative; 
+ left: 45%;
+ margin-left: 10%;
 }
