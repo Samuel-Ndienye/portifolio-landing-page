@@ -68,3 +68,24 @@ padding-bottom: 3%;
 .sam{
   margin-top: 2%;
 }
+.about{
+  background-color: #36454f;
+  margin-top: 1%;
+  height: 700px;
+}
+.me{
+color: whitesmoke;
+font-family: 'Allerta Stencil';
+margin-left: 46%;
+font-size: 22px;
+padding-top: 6%;
+}
+.me::after{
+  content: '';
+  height: 3px;
+  width: 5%;
+  background: orangered;
+  position: absolute;
+  left:46.9%;
+  top:1225px;
+}
