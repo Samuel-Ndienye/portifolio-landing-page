@@ -1,13 +1,12 @@
 # portifolio-landing-page
-#### Brief Description 
-* This is a landing page for a burger shop, 2021
+
 #### Author
 * Samuel Ndienye Wang'ang'a
 ## Description
 This is a burger's shop website and its used to inform the customers on available varieties of burgers and the price ranges.There is also contacts which customers might use to give feedback on the services provided or place their orders.
 ## Link to Website
 * 
-## Installation Requirements
+## Setup instructions
 * Access to internet
 * Either smartphone or a computer
 * High speed connection
@@ -19,10 +18,10 @@ This is a burger's shop website and its used to inform the customers on availabl
 * E-mail - samngash003@gmail.com
 * Linked in - Samuel Wang'ang'a
  ### License
-Copyright (c)  2021 Samuel Ndienye Wang'ang'a
-
 MIT License
+
 Copyright (c) [2021] [Samuel Ndienye Wang'ang'a]
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
