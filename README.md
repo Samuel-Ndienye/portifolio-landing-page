@@ -3,16 +3,15 @@
 #### Author
 * Samuel Ndienye Wang'ang'a
 ## Description
-This is a burger's shop website and its used to inform the customers on available varieties of burgers and the price ranges.There is also contacts which customers might use to give feedback on the services provided or place their orders.
 ## Link to Website
-* 
+* This is a website that shows my portfolio.It contains all my background information,some sample projects that I have worked on and my skills and hobbies.
 ## Setup instructions
 * Access to internet
 * Either smartphone or a computer
 * High speed connection
 ## Technologies Used
-* css 
-* HTML
+* css - which was used to style the page.
+* HTML- which was used to build the structure of the page.
 ## Support and contact details
 * Slack - Samuel Wang'ang'a
 * E-mail - samngash003@gmail.com
