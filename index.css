@@ -3,13 +3,11 @@
   margin: 0px;
 }
 .section{
-  background-image: url(images/73470487_450641412474938_480698090114428038_n.jpg);
-  height: 750px;
-  background-repeat:no-repeat;
-  position: absolute;
+  background-image: url(images/sam.jpg);
+  height: 700px;
   width: 100%;
-  background-size: cover;
-  filter:brightness(60%);
+  filter:brightness(58%);
+  padding-top: 1px;
 }
 .ndienye{
   color: white;
@@ -40,7 +38,25 @@
   justify-content: space-around;
 }
 .project{
-  background-color:#36454f ;
+  background-color: #36454f;
+  height: 470px;
+  padding-top:3% ;
+}
+.projects{
+color: whitesmoke;
+font-family: 'Allerta Stencil';
+margin-left: 46%;
+font-size: 22px;
+padding-bottom: 3%;
+}
+.projects::after{
+  content: '';
+  height: 3px;
+  width: 5%;
+  background: orangered;
+  position: absolute;
+  left:46.9%;
+  top:800px;
 }
 .design{
   margin-top: 2%;
