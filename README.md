@@ -5,7 +5,8 @@
 ## Description
 * This is a website that shows my portfolio.It contains all my background information,some sample projects that I have worked on and my skills and hobbies.
 ## Link to Website
-
+* Click on the link provided bellow to view the site.
+* https://samuel-ndienye.github.io/portifolio-landing-page/
 ## Setup instructions
 * Access to internet
 * Either smartphone or a computer
