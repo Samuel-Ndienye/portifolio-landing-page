@@ -21,7 +21,10 @@
  color: white;
  text-decoration: none;
  font-family: 'Allerta Stencil';
- padding: 85px;
+ padding-left: 139px;
+ padding-right: 110px;
+ padding-top: 105px;
+ padding-bottom: 104px;
 }
 .nav-section nav{
  margin-left: 57%;
@@ -30,7 +33,7 @@
  background-color: black;
  display: flex;
  flex-direction: column;
- left: 26%;
+ left: 21%;
 }
 .hello{
   color:whitesmoke;
@@ -43,7 +46,7 @@
 }
 .project{
   background-color: #36454f;
-  height: 390px;
+  height: 720px;
   padding-top:3% ;
 }
 .projects{
@@ -88,7 +91,7 @@ margin-bottom:1%;
   background: orangered;
   position: absolute;
   left:43.5%;
-  top:1200px;
+  top:1535px;
 }
 .col-md-5{
   margin-top: 4%;
@@ -98,4 +101,16 @@ margin-bottom:1%;
 }
 .col-md-7{
   margin-top: 4%;
+}
+.container{
+  color: whitesmoke;
+}
+.col-md-5>h2{
+color: orangered;
+}
+.col-md-7>h2{
+  color: orangered;
+}
+.col-md-4>h2{
+  color: orangered;
 }
