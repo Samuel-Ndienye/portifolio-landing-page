@@ -13,7 +13,7 @@
 }
 .ndienye{
   color: white;
-  margin-top: 3%;
+  margin-top: 2%;
   margin-left: 4%;
   font-size: 24px;
   font-weight: 900;
@@ -21,19 +21,23 @@
 }
 .nav-section nav a{
  color: white;
+ text-decoration: none;
+ font-family: 'Allerta Stencil';
 }
 .nav-section nav{
   display: flex;
   flex-direction: row;
-  margin-left: 40%;
+  margin-left: 48%;
+ justify-content: space-evenly;
 }
 .hello{
   color:whitesmoke;
   top: 9%;
-  margin-top: 15%;
+  margin-top: 23%;
   margin-left: 9%;
   font-size:39px;
   font-family: 'Allerta Stencil';
+  justify-content: space-around;
 }
 .project{
   background-color:#36454f ;
