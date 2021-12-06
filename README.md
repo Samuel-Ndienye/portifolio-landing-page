@@ -7,6 +7,8 @@
 ## Link to Website
 * Click on the link provided below to view the site.
 * https://samuel-ndienye.github.io/portifolio-landing-page/
+* Click on the link provided below to view the design.
+* https://www.figma.com/file/8mJ8pM5v9G4qbdhSV4ab9D/PORTIFORLIO
 ## Setup instructions
 * Access to internet
 * Either smartphone or a computer
