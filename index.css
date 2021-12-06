@@ -1,36 +1,40 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
 .section{
   background-image: url(images/73470487_450641412474938_480698090114428038_n.jpg);
   height: 750px;
   background-repeat:no-repeat;
+  position: absolute;
   width: 100%;
-  position: relative;
   background-size: cover;
   filter:brightness(60%);
 }
 .ndienye{
   color: white;
-  position:relative;
-  top: 5%;
-  left: 4%;
+  margin-top: 3%;
+  margin-left: 4%;
   font-size: 24px;
   font-weight: 900;
   font-family: 'Allerta Stencil';
 }
 .nav-section nav a{
  color: white;
- position: relative; 
- left: 40%;
- margin-left: 9%;
- text-decoration: none;
- font-size: 17px;
- font-family: 'Allerta Stencil';
+}
+.nav-section nav{
+  display: flex;
+  flex-direction: row;
+  margin-left: 40%;
 }
 .hello{
   color:whitesmoke;
-  position: relative;
   top: 9%;
   margin-top: 15%;
   margin-left: 9%;
   font-size:39px;
   font-family: 'Allerta Stencil';
+}
+.project{
+  background-color:#36454f ;
 }
