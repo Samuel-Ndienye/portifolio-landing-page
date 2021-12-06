@@ -33,12 +33,18 @@
 .hello{
   color:whitesmoke;
   top: 9%;
-  margin-top: 23%;
+  margin-top: 20%;
   margin-left: 9%;
-  font-size:39px;
+  font-size:40px;
   font-family: 'Allerta Stencil';
   justify-content: space-around;
 }
 .project{
   background-color:#36454f ;
+}
+.design{
+  margin-top: 2%;
+}
+.sam{
+  margin-top: 2%;
 }
