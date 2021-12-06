@@ -8,11 +8,26 @@
   filter:brightness(60%);
 }
 .ndienye{
-  color: white
+  color: white;
+  position:relative;
+  top: 5%;
+  left: 4%;
+  font-size: 24px;
+  font-weight: 900;
 }
 .nav-section nav a{
  color: white;
  position: relative; 
- left: 45%;
- margin-left: 10%;
+ left: 40%;
+ margin-left: 9%;
+ text-decoration: none;
+ font-size: 17px;
+}
+.hello{
+  color: #cccccc;
+  position: relative;
+  top: 9%;
+  margin-top: 15%;
+  margin-left: 9%;
+  font-size:36px;
 }
