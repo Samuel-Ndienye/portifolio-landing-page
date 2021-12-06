@@ -3,8 +3,9 @@
 #### Author
 * Samuel Ndienye Wang'ang'a
 ## Description
-## Link to Website
 * This is a website that shows my portfolio.It contains all my background information,some sample projects that I have worked on and my skills and hobbies.
+## Link to Website
+
 ## Setup instructions
 * Access to internet
 * Either smartphone or a computer
